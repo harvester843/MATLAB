@@ -1,8 +1,3 @@
-% Benjamin Lipscomb
-% Michelle Fernandez
-% CSCI280 Computational Mathematics 
-% Dr. Xuwei Liang
-% Homework Assignment 3
 
 function xNS = BiRegRoot(Fun,a,b,ErrMax)
 format long g
