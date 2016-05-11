@@ -1,10 +1,3 @@
-% Benjamin Lipscomb
-% Michelle Fernandez
-% CSCI280 Computational Mathematics
-% Dr. Xuwei Liang
-% HW Assignment 2
-% Problem 3: Question 2.26
-
 
 function C = MatrixMult(A,B)
 %gets size of rows and columns of A and B
