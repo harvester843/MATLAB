@@ -1,3 +1,6 @@
+% Benjamin Lipscomb
+% 20 February 2016
+
 function At = transp(A)
 [Ra,Ca]=size(A);
 for i=1:Ra
