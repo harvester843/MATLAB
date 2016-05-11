@@ -1,3 +1,5 @@
+% Benjamin Lipscomb
+% 10 February 2016
 
 function n = iddd643(num)
 n=zeros(1, 16); %creates vector of 16 zeros
