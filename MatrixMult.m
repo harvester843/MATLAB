@@ -1,4 +1,7 @@
 
+% Benjamin Lipscomb
+% 22 February 2016
+
 function C = MatrixMult(A,B)
 %gets size of rows and columns of A and B
 [Ra,Ca]=size(A);
