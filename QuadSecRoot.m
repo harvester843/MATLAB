@@ -1,9 +1,11 @@
+% Benjamin Lipscomb
+% 22 February 2016
 
 function Xs = QuadSecRoot(Fun,a,b)
-%  F3_2=@(x) x-2*exp(-x);
-%  Sola = QuadSecRoot(F3_2,0,1)
-%  F3_3=@(x) sin(x)/x-3/4;
-%  Solb = QuadSecRoot(F3_3,0.5,1.5)
+  F3_2=@(x) x-2*exp(-x);
+  Sola = QuadSecRoot(F3_2,0,1)
+  F3_3=@(x) sin(x)/x-3/4;
+  Solb = QuadSecRoot(F3_3,0.5,1.5)
 
 Fa=Fun(a);
 Fb=Fun(b);
