@@ -1,3 +1,5 @@
+% Benjamin Lipscomb
+% 12 February 2016
 
 function b=deciTObina(d)
 b=zeros(1,30);
