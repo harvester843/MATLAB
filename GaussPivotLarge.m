@@ -1,4 +1,8 @@
 
+% Benjamin Lipscomb
+% 28 March 2016
+
+
 function Xa = GaussPivotLarge(A,B)
 AB=[A,B];   %Appends column b to matrix a
 [row,col]=size(AB); %Determines the size of AB
