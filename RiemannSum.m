@@ -1,3 +1,5 @@
+% Benjamin Lipscomb
+% 22 February 2016
 
 function I = RiemannSum(Fun, a, b)
 a=0;
