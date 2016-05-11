@@ -1,9 +1,5 @@
 % Benjamin Lipscomb
-% Michelle Fernandez
-% CSCI280 Computational Mathematics
-% Dr. Xuwei Liang
-% HW Assignment 2
-% Problem 1: Question 2.24
+% 22 February 2016
 
 clear
 clc
