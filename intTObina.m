@@ -1,7 +1,3 @@
-%Benjamin Lipscomb
-%Michelle Fernandez
-%CSCI280 Computational Mathematics
-%Homework 1, Problem 1
 
 function b = intTObina(d)   %input
 b=[];
