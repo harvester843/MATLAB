@@ -1,3 +1,5 @@
+% Benjamin Lipscomb
+% 18 March 2016
 
 function xNS = BiRegRoot(Fun,a,b,ErrMax)
 format long g
@@ -5,7 +7,7 @@ Fun=@(x) sin(x)/x-3/4;
 a=0.1;
 b=1.4;
 
-%Xs = BiRegRoot(Fun,a,b,0.00001);
+Xs = BiRegRoot(Fun,a,b,0.00001);
 
 imax=100;   %max number of iterations
 Fa=Fun(a);
