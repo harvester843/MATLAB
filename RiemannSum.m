@@ -1,10 +1,3 @@
-% Benjamin Lipscomb
-% Michelle Fernandez
-% CSCI280 Computational Mathematics
-% Dr. Xuwei Liang
-% HW Assignment 2
-% Problem 2: Question 2.25
-
 
 function I = RiemannSum(Fun, a, b)
 a=0;
