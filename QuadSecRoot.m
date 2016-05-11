@@ -1,8 +1,3 @@
-% Benjamin Lipscomb
-% Michelle Fernandez
-% CSCI280 Computational Mathematics 
-% Dr. Xuwei Liang
-% Homework Assignment 3
 
 function Xs = QuadSecRoot(Fun,a,b)
 %  F3_2=@(x) x-2*exp(-x);
