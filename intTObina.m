@@ -1,3 +1,5 @@
+% Benjamin Lipscomb
+% 9 February 2016
 
 function b = intTObina(d)   %input
 b=[];
