@@ -1,7 +1,3 @@
-%Benjamin Lipscomb
-%Michelle Fernandez
-%CSCI280 Computational Mathematics
-%Homework 1, Problem 3
 
 function n = iddd643(num)
 n=zeros(1, 16); %creates vector of 16 zeros
